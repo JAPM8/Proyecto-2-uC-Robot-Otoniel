@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="robot">
+    <file>robot.jpeg</file>
+  </qresource>
+</RCC>
